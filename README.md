@@ -47,23 +47,27 @@ I aim to provide technically sound solutions aligned with long-term strategic go
 
 ## 💼 Experience
 
-### Özel Çözüm Ltd. (Jul 2025 – Present) — Project Manager, Full Stack Developer - DevOps
+### Özel Çözüm Ltd. (Jul 2025 – Present) 
+— *Project Manager, Full Stack Developer - DevOps*
 
 * Developing a personal scaffolding tool and contact/emergency alert app.
 * Deployed on Debian + Nginx. CI/CD pipeline through GitHub and Jenkins.
 *Tech: Node.js, React, Redux, PostgreSQL, Mongo, Redis, Nginx, Debian, Github, Jenkins*
 
-### Usta Bilgi Sistemleri A.Ş. (Jul 2020 – Dec 2024) — Full Stack Developer
+### Usta Bilgi Sistemleri A.Ş. (Jul 2020 – Dec 2024)
+— *Full Stack Developer*
 
 * Built ERP, CRM, DMS, analytics, and inventory systems.
 * Designed and deployed microservice architectures with Kafka, SignalR, and Keycloak authentication.
 *Tech: .Net Core, React, Redux, PostgreSQL, Redis, Apache Kafka, SignalR, Kubernetes, Keycloak, Nginx.*
 
-### General Directorate of Security, Crime Analysis Center (Nov 2017 – Jul 2020) — Software Engineering Specialist
+### General Directorate of Security (Nov 2017 – Jul 2020)
+— *Software Engineering Specialist (Crime Analysis Center)*
 
 * Developed national-scale reporting and BI systems for real-time data flow from field units to headquarters.
 
-### Cankaya University (Sep 2014 – Aug 2017) — Research Assistant
+### Cankaya University (Sep 2014 – Aug 2017)
+— *Research Assistant*
 
 * Conducted laboratory courses in programming, crystallography, and materials science.
 * Authored bilingual study/test book for introductory programming.
