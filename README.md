@@ -10,7 +10,7 @@
 * **Phone:** +90 507 911 50 29
 * **GitHub:** [github.com/emreyilmaz](https://github.com/emreyilmaz)
 * **LinkedIn:** [linkedin.com/in/emre-yilmaz](https://linkedin.com/in/emre-yilmaz)
-* **ResearchGate:** [www.researchgate.net/profile/Emre-Yilmaz-7](https://www.researchgate.net/profile/Emre-Yilmaz-7)
+* **ResearchGate:** [researchgate.net/profile/Emre-Yilmaz-7](https://www.researchgate.net/profile/Emre-Yilmaz-7)
 
 ---
 
