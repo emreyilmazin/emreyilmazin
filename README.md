@@ -10,7 +10,7 @@
 * **Phone:** +90 507 911 50 29
 * **WhatsApp:** [wa.me/905079115029](https://wa.me/905079115029)
 * **Telegram:** [t.me/+905079115029](https://t.me/+905079115029)
-* **GitHub:** [github.com/emreyilmazin](https://github.com/emreyilmaz)
+* **GitHub:** [github.com/emreyilmazin](https://github.com/emreyilmazin)
 * **LinkedIn:** [linkedin.com/in/emreyilmazin](https://linkedin.com/in/emreyilmazin)
 * **ResearchGate:** [researchgate.net/profile/Emre-Yilmaz-7](https://www.researchgate.net/profile/Emre-Yilmaz-7)
 
