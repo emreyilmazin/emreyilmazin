@@ -38,12 +38,12 @@ I aim to provide technically sound solutions aligned with long-term strategic go
 
 ## ⚙️ Core Technical Stack
 
-**Backend:** .NET Core, Node.js, REST APIs, Entity Framework, LINQ, Npgsql, Kafka, Keycloak, SignalR
-**Frontend:** React, Redux, Single-SPA, Webpack, Ant Design, MUI, SignalR (JS)
-**Databases:** PostgreSQL, MongoDB, Redis
-**DevOps & Infra:** Git, Jenkins, Docker, Kubernetes, Shell Scripting, Nginx/Lua, Apache2, Linux Administration
-**Cloud:** Alibaba Cloud (SAS)
-**Tools:** Confluence, Jira, UML, Lucidchart, Figma
+* **Backend:** .NET Core, Node.js, REST APIs, Entity Framework, LINQ, Npgsql, Kafka, Keycloak, SignalR
+* **Frontend:** React, Redux, Single-SPA, Webpack, Ant Design, MUI, SignalR (JS)
+* **Databases:** PostgreSQL, MongoDB, Redis
+* **DevOps & Infra:** Git, Jenkins, Docker, Kubernetes, Shell Scripting, Nginx/Lua, Apache2, Linux Administration
+* **Cloud:** Alibaba Cloud (SAS)
+* **Tools:** Confluence, Jira, UML, Lucidchart, Figma
 
 ---
 
