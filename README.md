@@ -49,12 +49,12 @@ I aim to provide technically sound solutions aligned with long-term strategic go
 
 ## 💼 Experience
 
-### Özel Çözüm Ltd. (Jul 2025 – Present) 
+### Özel Çözüm Ltd. (Jul 2025 – Nov 2025) 
 — *Project Manager, Full Stack Developer - DevOps*
 
 * Developing a personal scaffolding tool and contact/emergency alert app.
 * Deployed on Debian + Nginx. CI/CD pipeline through GitHub and Jenkins.
-*Tech: Node.js, React, Redux, PostgreSQL, Mongo, Redis, Nginx, Debian, Github, Jenkins*
+*Tech: Node.js, React, Redux, PostgreSQL, MongoDB, Redis, Nginx, Debian, Github, Jenkins*
 
 ### Usta Bilgi Sistemleri A.Ş. (Jul 2020 – Dec 2024)
 — *Full Stack Developer*
@@ -99,7 +99,7 @@ I aim to provide technically sound solutions aligned with long-term strategic go
 
 ## 🧠 Teaching & Mentoring
 
-* Mentored junior software developers and interns in .NET, React, and DevOps practices.
+* Mentored junior software developers and interns.
 * Led internal technical workshops and documentation initiatives.
 * Served as academic mentor for undergraduate thesis projects.
 
