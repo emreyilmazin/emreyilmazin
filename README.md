@@ -10,7 +10,6 @@
 - **Phone:** +90 507 911 50 29
 - **WhatsApp:** [wa.me/905079115029](https://wa.me/905079115029)
 - **GitHub:** [github.com/emreyilmazin](https://github.com/emreyilmazin)
-- **LinkedIn:** [linkedin.com/in/emreyilmazin](https://linkedin.com/in/emreyilmazin)
 - **ResearchGate:** [researchgate.net/profile/Emre-Yilmaz-7](https://www.researchgate.net/profile/Emre-Yilmaz-7)
 
 ---
@@ -102,14 +101,6 @@
 ---
 
 ## Experience
-
-### Özel Çözüm Ltd. (Jul 2025 – Nov 2025)
-
-— _Project Manager, Full Cycle Developer_
-
-Designed and built a code generation and scaffolding tool using Node.js and React, integrating Redux for state management and PostgreSQL/MongoDB for data persistence; optimized deployment with Nginx on Debian and automated CI/CD through GitHub and Jenkins.
-
-_Tech: Node.js, React, Redux, PostgreSQL, MongoDB, Redis, Nginx, Debian, Github, Jenkins_
 
 ### Usta Bilgi Sistemleri A.Ş. (Jul 2020 – Dec 2024)
 
